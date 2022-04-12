@@ -1,0 +1,13 @@
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.csproj.AssemblyReference.cache
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.AssemblyInfoInputs.cache
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.AssemblyInfo.cs
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.csproj.CoreCompileInputs.cache
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.dll
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\ref\AltV.dll
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.pdb
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV.deps.json
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV.dll
+C:\Users\emrea\Desktop\altv server\resources\AltV\ref\AltV.dll
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV.pdb
+C:\Users\emrea\Desktop\altv server\resources\AltV\AltV\obj\Debug\AltV.csproj.CopyComplete

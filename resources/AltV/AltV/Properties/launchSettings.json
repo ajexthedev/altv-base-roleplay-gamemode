@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AltV": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\emrea\\Desktop\\altv server\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\emrea\\Desktop\\altv server"
+    }
+  }
+}

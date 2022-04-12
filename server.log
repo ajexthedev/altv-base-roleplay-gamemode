@@ -1,0 +1,27 @@
+[01:49:05] alt:V Server 10.0-dev12 (dev)
+[01:49:05] Starting alt:V Server on 0.0.0.0:7788
+[01:49:05][Error] Failed to load module "C:\\Users\\emrea\\Desktop\\altv server\\modules\\js-bytecode-module.dll"
+	 Module uses SDK #d8e18fd, server requires SDK #66aef5c
+[01:49:05] Loading resource chat
+[01:49:06] Loaded resource chat
+[01:49:06] Loading resource AltV
+[01:49:15] Sunucu baslatildi!
+[01:49:17] MySQL baglantisi basarili!
+[01:49:17] Loaded resource AltV
+[01:49:17] Loading resource AltVClientside
+[01:49:17] Loaded resource AltVClientside
+[01:49:17] Required server permissions:
+[01:49:17] Optional server permissions:
+[01:49:17] Starting HTTP server on 0.0.0.0:7788
+[01:49:17] Main thread started (ThreadId: 20484)
+[01:49:17] Colshape thread started (ThreadId: 19528)
+[01:49:17] EntityStreamer thread started (ThreadId: 20824)
+[01:49:17] Sync thread started (ThreadId: 19516)
+[01:49:17] Network thread started (ThreadId: 19532)
+[01:49:17] Console thread started (ThreadId: 19684)
+[01:49:17][Warning] Server started in debug mode
+[01:50:12] ajeX adlı oyuncu sunucuya giriş yaptı.
+[01:51:17] Stopping resource chat
+[01:51:17] Stopped resource chat
+[01:51:17] Stopping resource AltV
+[01:51:18] Sunucu kapatildi!

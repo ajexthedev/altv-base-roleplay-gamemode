@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+	  <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\emrea\Desktop\altv server\resources\AltV\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Bcrypt.cs" />
+    <Compile Include="Commands.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="Events.cs" />
+    <Compile Include="Server.cs" />
+    <Compile Include="TPlayer\TPlayer.cs" />
+    <Compile Include="TPlayer\TPlayerFactory.cs" />
+    <Compile Include="Utils.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="10.0.49-dev" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="10.0.49-dev" />
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
+  </ItemGroup>
+
+</Project>

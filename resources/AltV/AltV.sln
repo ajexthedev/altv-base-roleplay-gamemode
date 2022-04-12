@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltV", "AltV\AltV.csproj", "{8CFFE3C2-5E94-4294-B0E0-BFD36040A4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CFFE3C2-5E94-4294-B0E0-BFD36040A4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFFE3C2-5E94-4294-B0E0-BFD36040A4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFFE3C2-5E94-4294-B0E0-BFD36040A4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFFE3C2-5E94-4294-B0E0-BFD36040A4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60DFC9F9-2E13-4839-A7F1-25B20C29E0E4}
+	EndGlobalSection
+EndGlobal
